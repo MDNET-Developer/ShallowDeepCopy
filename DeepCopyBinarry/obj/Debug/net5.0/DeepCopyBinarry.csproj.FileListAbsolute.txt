@@ -1,0 +1,16 @@
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.exe
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.deps.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.runtimeconfig.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.runtimeconfig.dev.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\bin\Debug\net5.0\DeepCopyBinarry.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.csproj.AssemblyReference.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.AssemblyInfoInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.AssemblyInfo.cs
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\refint\DeepCopyBinarry.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\DeepCopyBinarry.genruntimeconfig.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyBinarry\obj\Debug\net5.0\ref\DeepCopyBinarry.dll

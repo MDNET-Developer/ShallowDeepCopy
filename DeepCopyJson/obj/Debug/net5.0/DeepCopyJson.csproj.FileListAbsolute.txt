@@ -1,0 +1,16 @@
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.exe
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.deps.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.runtimeconfig.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.runtimeconfig.dev.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\bin\Debug\net5.0\DeepCopyJson.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.csproj.AssemblyReference.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.AssemblyInfoInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.AssemblyInfo.cs
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\refint\DeepCopyJson.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\DeepCopyJson.genruntimeconfig.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\DeepCopyJson\obj\Debug\net5.0\ref\DeepCopyJson.dll

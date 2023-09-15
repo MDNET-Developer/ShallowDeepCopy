@@ -1,0 +1,16 @@
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.exe
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.deps.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.runtimeconfig.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.runtimeconfig.dev.json
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\bin\Debug\net5.0\ShallowCopy.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.csproj.AssemblyReference.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.AssemblyInfoInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.AssemblyInfo.cs
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\refint\ShallowCopy.dll
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.pdb
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ShallowCopy.genruntimeconfig.cache
+C:\Users\Murad\Downloads\TempFileProject\DeepShallowCopy\ShallowCopy\obj\Debug\net5.0\ref\ShallowCopy.dll
